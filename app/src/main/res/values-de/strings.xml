@@ -25,13 +25,13 @@
     <string name="tv_ad_zone">Werbung ist die Haupteinnahmequelle dieses Open-Source-Projektes. Bitte setze diese App auf die Whitelist, falls Du einen Adblocker verwendest.</string>
 
     <!-- RequirePermissionActivity -->
-    <string name="explanation_device_admin">Um das Gerät schlafenzuleggen, muss ein Geräteadministrator aktiviert sein.</string>
+    <string name="explanation_device_admin">Um das Gerät schlafenzulegen, muss ein Geräteadministrator aktiviert sein.</string>
     <string name="description_accessibility">Fingerprint Quick Action benötigt Eingabehilfen, um Änderungen der Benutzerschnittstelle festzustellen und einige Aktionen durchzuführen</string>
     <string name="toast_device_admin_failed">Konnte Geräteadministrator nicht festlegen</string>
     <string name="toast_accessibility_failed">Konnte Eingabehilfen nicht aktivieren</string>
 
     <!-- SleepTimeOutActivity -->
-    <string name="tv_unlock_via_fingerprint">Via Fingerabdruck Entsperren</string>
+    <string name="tv_unlock_via_fingerprint">Via Fingerabdruck entsperren</string>
     <string name="toast_window_overlay_permission_failed">Konnte Fenster-Overlay-Berechtigung nicht erlangen</string>
 
     <!-- Preferences -->
@@ -64,7 +64,7 @@
 
     <string name="title_pref_category_single_tap">Einzelberührung</string>
 
-    <string name="title_pref_action_single_tap">Aktion für Eizelberührung</string>
+    <string name="title_pref_action_single_tap">Aktion für Einzelberührung</string>
 
     <string name="title_pref_action_single_tap_app">App oder Verknüpfung für Einzelberührung</string>
 
